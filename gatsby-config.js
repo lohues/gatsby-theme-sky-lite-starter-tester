@@ -110,14 +110,6 @@ module.exports = {
         display: `standalone`,
         icon: `src/images/favicon.png`
       }
-    },
-    {
-      resolve: "gatsby-plugin-web-font-loader",
-      options: {
-        google: {
-          families: ["Work Sans:800"]
-        }
-      }
     }
   ]
 };
