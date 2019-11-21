@@ -14,7 +14,19 @@ yarn # Or, npm install
 ## Start development server
 
 ```bash
-yarn start # Or, npm run start
+gatsby develop
+```
+
+## Empty cache
+
+```bash
+gatsby clean
+```
+
+## Build static site
+
+```bash
+gatsby build
 ```
 
 ## Screenshots
