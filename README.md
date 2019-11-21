@@ -2,22 +2,16 @@
 
 A lightweight GatsbyJS starter base with Material-UI and MDX Markdown support.
 
-## Install
+## Install dependencies
 
 ```bash
-yarn add gatsby-theme-sky-lite # Or, npm install gatsby-theme-sky-lite
+yarn # Or, npm install
 ```
 
-```js
-// gatsby-config.js
-module.exports = {
-  ...
-  plugins: [
-		{ resolve: `gatsby-theme-sky-lite` },
-		...
-	]
-  ...
-}
+## Start development server
+
+```bash
+yarn start # Or, npm run start
 ```
 
 ## Screenshots
