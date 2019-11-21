@@ -101,7 +101,6 @@ module.exports = {
     }
   },
   plugins: [
-    { resolve: `gatsby-plugin-styled-components` },
     { resolve: `gatsby-theme-sky-lite` },
     {
       resolve: `gatsby-plugin-manifest`,
