@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-theme-vim-portfolio-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ryan Bell <ryanbell@gmail.com> (@iRyanBell)",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.17.11",
+    "gatsby-plugin-manifest": "^2.2.29",
+    "gatsby-theme-sky-lite": "^1.0.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
