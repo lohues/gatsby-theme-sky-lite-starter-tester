@@ -17,9 +17,6 @@ module.exports = {
           }
         ]
       },
-      layout: {
-        googleFonts: "Roboto|Merriweather:300|Work+Sans:800"
-      },
       footer: {
         copyright: "yoursite.com",
         columns: [
@@ -112,6 +109,14 @@ module.exports = {
         theme_color: `#1f55ff`,
         display: `standalone`,
         icon: `src/images/favicon.png`
+      }
+    },
+    {
+      resolve: "gatsby-plugin-web-font-loader",
+      options: {
+        google: {
+          families: ["Work Sans:800"]
+        }
       }
     }
   ]
