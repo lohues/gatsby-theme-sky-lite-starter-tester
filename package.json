@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-vim-portfolio-starter",
+  "name": "gatsby-theme-sky-lite-starter",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Ryan Bell <ryanbell@gmail.com> (@iRyanBell)",
@@ -15,5 +15,13 @@
     "gatsby-theme-sky-lite": "^1.0.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vim-labs/gatsby-theme-sky-lite-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vim-labs/gatsby-theme-sky-lite-starter/issues"
+  },
+  "homepage": "https://github.com/vim-labs/gatsby-theme-sky-lite-starter#readme"
 }
