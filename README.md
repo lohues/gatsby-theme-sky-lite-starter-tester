@@ -1,4 +1,4 @@
-# Gatsby Theme: Sky Lite
+# Gatsby Theme: Sky Lite Starter
 
 A lightweight GatsbyJS starter with Material-UI and MDX Markdown support.
 
