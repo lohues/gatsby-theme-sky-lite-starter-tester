@@ -1,12 +1,9 @@
 # Gatsby Theme: Sky Lite Starter
 
-A lightweight GatsbyJS starter with Material-UI and MDX Markdown support.
+A lightweight GatsbyJS starter with Material-UI and MDX Markdown support. This starter uses the `gatsby-theme-sky-lite` theme available at: https://github.com/vim-labs/gatsby-theme-sky-lite
 
 **View demo:**
 https://gatsby-theme-sky-lite.netlify.com
-
-This starter uses the `gatsby-theme-sky-lite` theme available at:
-https://github.com/vim-labs/gatsby-theme-sky-lite
 
 ## Install dependencies
 
