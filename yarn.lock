@@ -5721,10 +5721,10 @@ gatsby-telemetry@^1.1.39:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-sky-lite@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-sky-lite/-/gatsby-theme-sky-lite-1.0.6.tgz#e6a391eb81fb1afc7f57f5efc8acb527bcdf7df9"
-  integrity sha512-aErHcS+0gHTZUDxYeg4hd44rbhmbqxHzpVUEah+vwq6bKcQ/23lOSyIog44FduH8ovA02iqY9fzVOahLaC3vug==
+gatsby-theme-sky-lite@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-sky-lite/-/gatsby-theme-sky-lite-1.0.7.tgz#6da38fed9d35dfd26485aab5adf45b1400f70f74"
+  integrity sha512-yrtXc8BTvK7cfMPfl9hfLAl5EhxSZAZvhwpjlOo8hYM7zZ60q1ZKKUTlVktrDuRXwrPTAUrAvVgXt7kL0oK4LQ==
   dependencies:
     "@material-ui/core" "^4.6.1"
     "@mdx-js/mdx" "^1.5.1"
