@@ -106,7 +106,7 @@ module.exports = {
     }
   },
   plugins: [
-    { resolve: `./gatsby-theme-sky-lite` },
+    { resolve: `gatsby-theme-sky-lite` },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
