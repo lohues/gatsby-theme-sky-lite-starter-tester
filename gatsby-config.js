@@ -76,7 +76,7 @@ module.exports = {
     },
     templates: {
       home: {
-        numberOfPosts: 5,
+        totalPosts: 3,
         template: "home"
       },
       pages: {
@@ -90,9 +90,17 @@ module.exports = {
         filters: {
           tag: {
             pathPrefix: "tag",
-            template: "filterPostByTag",
-            numberOfPosts: 5
+            template: "tag",
+            totalPosts: 3,
+            pagination: {
+              template: "resultsTag",
+              resultsPerPage: 6
+            }
           }
+        },
+        pagination: {
+          template: "resultsAll",
+          resultsPerPage: 6
         }
       }
     }
@@ -105,7 +113,7 @@ module.exports = {
         name: `Sky Lite`,
         short_name: `SkyLite`,
         start_url: `/`,
-        background_color: `#e6ebf1`,
+        background_color: `#eff2f6`,
         theme_color: `#1f55ff`,
         display: `standalone`,
         icon: `src/images/favicon.png`
