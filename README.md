@@ -2,6 +2,9 @@
 
 A lightweight GatsbyJS starter with Material-UI and MDX Markdown support.
 
+View Demo:
+https://gatsby-theme-sky-lite.netlify.com
+
 This starter uses the `gatsby-theme-sky-lite` theme available at:
 https://github.com/vim-labs/gatsby-theme-sky-lite
 
@@ -31,5 +34,5 @@ gatsby build
 
 ## Screenshots
 
-![Screenshot 01](https://user-images.githubusercontent.com/25379378/69487861-025dea00-0e16-11ea-99f3-bf59a0cf6d9d.png)
-![Screenshot 02](https://user-images.githubusercontent.com/25379378/69301760-30e88480-0bcc-11ea-9ba7-5593740590d3.png)
+![Screenshot 01](https://user-images.githubusercontent.com/25379378/69492728-f6e0e200-0e5a-11ea-9601-4d76414a792e.png)
+![Screenshot 02](https://user-images.githubusercontent.com/25379378/69492729-f6e0e200-0e5a-11ea-9508-94c69dff22e8.png)
