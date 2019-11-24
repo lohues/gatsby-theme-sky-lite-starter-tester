@@ -1,6 +1,6 @@
 {
   "name": "gatsby-theme-sky-lite-starter",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "main": "index.js",
   "author": "Ryan Bell <ryanbell@gmail.com> (@iRyanBell)",
   "license": "MIT",
@@ -12,9 +12,10 @@
   "dependencies": {
     "gatsby": "^2.17.11",
     "gatsby-plugin-manifest": "^2.2.29",
-    "gatsby-theme-sky-lite": "^1.1.2",
+    "gatsby-theme-sky-lite": "^1.2.0",
     "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "react-dom": "^16.11.0",
+    "styled-components": "^4.4.1"
   },
   "repository": {
     "type": "git",
