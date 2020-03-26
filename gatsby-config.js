@@ -113,8 +113,8 @@ module.exports = {
         name: `Sky Lite`,
         short_name: `SkyLite`,
         start_url: `/`,
-        background_color: `#eff2f6`,
-        theme_color: `#1f55ff`,
+        background_color: `rebeccapurple`,
+        theme_color: `rebeccapurple`,
         display: `standalone`,
         icon: `src/images/favicon.png`
       }

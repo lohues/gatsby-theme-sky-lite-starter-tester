@@ -5802,10 +5802,10 @@ gatsby-telemetry@^1.1.39:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-sky-lite@^1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-sky-lite/-/gatsby-theme-sky-lite-1.3.0.tgz#de7e9072b3b95ae2f880ed8b566abc1dc8290a99"
-  integrity sha512-sdqAgLtZzLnyRZg1z/B4cK4h88TPijVVCFfvpMSbQEOS7RFqvYOBdw2Aiu7zW6yIdIP3rP0fz3H3qaRF0F2opg==
+gatsby-theme-sky-lite@^1.3.1:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-sky-lite/-/gatsby-theme-sky-lite-1.3.1.tgz#c6874bb51a6e5076faf1bbc4c44f39be12e84e24"
+  integrity sha512-6VSizxuxYd3iu3hdqoFHTqQW6ibXhS9OviWEdyzWUwxQb6/toZtB+QmAs5cdaRcUlwLGBqHN+pQTWV0hAYH84w==
   dependencies:
     "@material-ui/core" "^4.6.1"
     "@mdx-js/mdx" "^1.5.1"
@@ -5823,7 +5823,7 @@ gatsby-theme-sky-lite@^1.3.0:
     moment "^2.24.0"
     react-helmet "^5.2.1"
     react-icons "^3.8.0"
-    yarn "^1.19.1"
+    yarn "^1.22.0"
 
 gatsby-transformer-remark@^2.6.37:
   version "2.6.37"
@@ -14025,10 +14025,10 @@ yargs@^9.0.0:
     y18n "^3.2.1"
     yargs-parser "^7.0.0"
 
-yarn@^1.19.1:
-  version "1.19.2"
-  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.19.2.tgz#cf5fc9b24ad97a11c65d7cb0b2ac945eb936122f"
-  integrity sha512-OdLN/K/sA+KnW4ggNQwHYK6YJdLkSWxbx6IYd+WIQJ6xDfk8CIYKckBfwGxTBmDaEluWs83InzjFCmUqPtpY+w==
+yarn@^1.22.0:
+  version "1.22.4"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.4.tgz#01c1197ca5b27f21edc8bc472cd4c8ce0e5a470e"
+  integrity sha512-oYM7hi/lIWm9bCoDMEWgffW8aiNZXCWeZ1/tGy0DWrN6vmzjCXIKu2Y21o8DYVBUtiktwKcNoxyGl/2iKLUNGA==
 
 yauzl@^2.4.2:
   version "2.10.0"
